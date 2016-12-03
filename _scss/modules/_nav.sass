@@ -1,15 +1,22 @@
 nav
   margin: 2em 0
   border: 0
-  ul
-    border-top: 1px solid $light-grey
-    width: 100%
-    margin: 0
+  .social-icons li
+    height: 28px
+    width: 28px
     padding: 0
+    margin-left: 1em
+  ul
+    margin: 0
     li
       display: inline-block
       margin: 0
       padding: 1em 1em 1em 0
+  .underLine
+    border-top: 1px solid $light-grey
+    width: 100%
+    margin: 0
+    padding: 0
   .navbar-branding
     margin: 0 auto 0 0
   a
@@ -19,6 +26,7 @@ nav
       color: $primary-color
     h1,h2,h3,h4,h5,h6
       letter-spacing: 3px
+      margin: 0
       flex: 2
   .link-section
     flex: 1
