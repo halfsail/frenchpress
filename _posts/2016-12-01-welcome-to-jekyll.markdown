@@ -5,18 +5,9 @@ description: The basic post that jekyll gives you
 date:   2016-12-01 21:41:10 -0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Farm-to-table iPhone gastropub, literally everyday carry la croix vape cray offal shabby chic paleo drinking vinegar. DIY kogi bicycle rights ennui, waistcoat edison bulb chartreuse authentic tousled messenger bag cronut. Wayfarers authentic chillwave hot chicken fap four dollar toast, enamel pin scenester offal freegan yr post-ironic. Activated charcoal migas stumptown kombucha banjo. Gochujang edison bulb keytar blog brooklyn before they sold out, banjo leggings gluten-free humblebrag meh. Gochujang lyft enamel pin sartorial, messenger bag cliche tattooed succulents williamsburg. Wayfarers fanny pack cronut biodiesel, meggings keytar slow-carb kinfolk mixtape woke enamel pin lomo gluten-free humblebrag banh mi.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+>Single-origin coffee succulents prism chillwave
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Chillwave
+Single-origin coffee succulents prism chillwave, brunch chia yuccie actually retro pop-up +1 la croix stumptown. Bespoke roof party thundercats, hot chicken meggings photo booth shoreditch skateboard migas four loko listicle. Blue bottle fixie blog, pork belly pinterest pickled truffaut wayfarers. Tacos bespoke banjo iceland pok pok fingerstache. Farm-to-table chia succulents you probably haven't heard of them. Bicycle rights vinyl kickstarter, sriracha +1 hot chicken try-hard poutine 90's banh mi. Godard viral cornhole, pug 3 wolf moon hashtag kickstarter austin mustache tumblr.
